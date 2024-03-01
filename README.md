@@ -1,4 +1,4 @@
-# ¡Hola! Soy Valentina 👋🏼👩🏼‍💻
+# ¡Hola! Soy Valentina 👋🏼
 
 <img src="https://github.com/valeamayola/valeamayola/assets/118310524/8ab24ef4-7dce-4e50-9269-7b6cf6f1f083"/>
 
