@@ -6,4 +6,4 @@ Soy una desarrolladora frontend con experiencia en el diseño y desarrollo de ap
 - [LinkedIn](https://www.linkedin.com/in/valentina-amayola/) 💼
 
 ## Mail de contacto:
-💌 (valeamayola.contact@gmail.com)
+💌 valeamayola.contact@gmail.com
